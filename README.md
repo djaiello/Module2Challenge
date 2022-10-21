@@ -1,20 +1,41 @@
-# Kickstarting with Excel
+# Refactoring VBA Stock Analysis Code
 
-## Overview of Project
+## OVERVIEW OF PROJECT
 
     Our original project was to design a stock analysis tool in Excel, using VBA, that would take a spreadsheet of daily stock figures for twelve stocks and calculate the annual volume and annual return for each stock.  In addition, the results would be formatted to separate stocks based on the annual return, providing an easy visualization for the client to make financial recommendations on.
 
     The purpose of this project is to scale up the capability of the original project to produce the same results for a greater number of stocks that the client may want to analyze.  In scaling up the potential number of inputs to use in this analysis, we are tasked with refactoring the original code to ensure that is runs more efficiently than the original.  
 
-## Results
+## RESULTS
+
+    The stock analysis was performed using the original code and the refactored code on both 2017 and 2018 stock data for a total of 4 runs as shown below: 
+### ORIGINAL Code for 2017 Stock Data
+
+
+
+### REFACTORED Code for 2017 Stock Data
 
     
     
+### Result Summary for 2017
+    The original code ran in 0.902 seconds while the refactored code ran in 0.156 seconds.  Thus the refactored code was much faster.
     
-    
-    Results: Using images and examples of your code, compare the stock performance between 2018 and 2018, as well as the execution times of the original script and the refactored script.
+### ORIGINAL Code for 2018 Stock Data  
 
-## Summary
+
+
+### REFACTORED Code for 2018 Stock Data
+    
+
+
+### Result Summary for 2018
+    The original code ran in 0.699 seconds while the refactored code ran in 0.132 seconds.  Thus the refactored code was much faster.
+
+### Original and Refactored Code Link:
+
+
+
+## SUMMARY
 
 ### Advantages and Disadvantages of Refactoring Code
     Refactoring is an important step in any code design of an algorithm.  The advantages of refactoring are not in producing a better output, but rather in making the code run more efficiently, possibly using resources better, such as limited memory or processing power, and possibly making the code easier to read and thus easier to maintain in the future.  Refactoring is often used when the original code is asked to scale up its input to avoid run times that are unacceptable for the end users.
