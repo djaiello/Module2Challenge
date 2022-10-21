@@ -10,8 +10,7 @@
 
     The stock analysis was performed using the original code and the refactored code on both 2017 and 2018 stock data for a total of 4 runs as shown below: 
 ### ORIGINAL Code for 2017 Stock Data
-
-
+![image](https://user-images.githubusercontent.com/114360511/197105189-0efe45d8-8e3c-45a6-ad4b-5c7219b7289b.png)
 
 ### REFACTORED Code for 2017 Stock Data
 
