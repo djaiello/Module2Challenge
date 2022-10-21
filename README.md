@@ -13,13 +13,14 @@
 ![image](https://user-images.githubusercontent.com/114360511/197105189-0efe45d8-8e3c-45a6-ad4b-5c7219b7289b.png)
 
 ### REFACTORED Code for 2017 Stock Data
-
+![image](https://user-images.githubusercontent.com/114360511/197105322-3b82b8e4-8c29-42f6-b990-e32411d7ce25.png)
     
     
 ### Result Summary for 2017
     The original code ran in 0.902 seconds while the refactored code ran in 0.156 seconds.  Thus the refactored code was much faster.
     
 ### ORIGINAL Code for 2018 Stock Data  
+
 
 
 
